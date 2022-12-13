@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+html, body {
+margin: 0;
+padding: 0;
+height: 100%;
+width: 100%;
+}
+
+div {
+float: left;
+width: 100%;
+height: 100%;
+}
+
+div.b {
+background-color: rgb(255,226,198)
+}
+
+div.z {
+background-color: rgb(255,255,198)
+}
+
+div.c {
+background-color: rgb(132,55,34)
+}
+
+p.b {
+color: rgb(255,226,198)
+}
+
+p.z {
+color: rgb(255,255,198)
+}
+
+p.c {
+color: rgb(132,55,34)
+}
